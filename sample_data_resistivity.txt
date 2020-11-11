@@ -1,0 +1,17 @@
+Length uncertainty +/- 0.02
+
+Chromium (Cr)
+Resistances (Ohms): [106.944,106.929,106.951,106.959]
+A1 Edges (mm) : [10.423,11.40]
+A2 Edges (mm) : [8.438,9.385]
+A1 to A2 Length (mm) : 2.0
+Width (mm) : 2.33
+Width Uncertainty (mm) :  0.05
+
+Silver (Ag)
+Resistances (Ohms) : [2.382, 2.358, 2.360]
+A1 Edges (mm) : [5.75,5.93]
+A2 Edges (mm) : [7.64,8.61]
+A1 to A2 Length (mm) : 2.29
+Width (mm) : 2.63
+Width Uncertainty (mm) :  0.05
